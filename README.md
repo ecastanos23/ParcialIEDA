@@ -1,7 +1,7 @@
 # 🎯 Sistema de Reserva de Equipos para Actividades Recreativas (C++)
 
 ## 📌 Descripción  
-Este proyecto implementa un sistema en **C++** que permite gestionar la **reserva de equipos para actividades recreativas**, tales como balones, bicicletas o implementos deportivos.  
+Este proyecto implementa un sistema en **C++** que permite gestionar la **reserva de equipos para actividades recreativas**. 
 El sistema administra la disponibilidad de los equipos, evita reservas duplicadas, permite cancelaciones, y maneja una **cola de espera** para asignar automáticamente un turno cuando un equipo reservado vuelve a estar disponible.  
 
 ---
