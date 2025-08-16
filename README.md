@@ -42,12 +42,11 @@ El sistema se organiza en clases para una mejor modularidad:
 ## 💻 Compilación y ejecución  
 
 ### 🔹 Linux / MacOS  
-```bash
 g++ Main.cpp -o reservas
 ./sistemaReserva
-
----
 
 ##Autor
 Proyecto académico desarrollado por Emmanuel Castaño Sepúlveda
 🌐 GitHub
+
+
