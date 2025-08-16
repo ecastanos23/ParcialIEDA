@@ -45,7 +45,7 @@ El sistema se organiza en clases para una mejor modularidad:
 g++ Main.cpp -o reservas
 ./sistemaReserva
 
-##Autor
+## Autor
 Proyecto académico desarrollado por Emmanuel Castaño Sepúlveda
 🌐 GitHub
 
