@@ -1,12 +1,12 @@
-# 🎯 Sistema de Reserva de Equipos para Actividades Recreativas (C++)
+# Sistema de Reserva de Equipos para Actividades Recreativas (C++)
 
-## 📌 Descripción  
+##  Descripción  
 Este proyecto implementa un sistema en **C++** que permite gestionar la **reserva de equipos para actividades recreativas**. 
 El sistema administra la disponibilidad de los equipos, evita reservas duplicadas, permite cancelaciones, y maneja una **cola de espera** para asignar automáticamente un turno cuando un equipo reservado vuelve a estar disponible.  
 
 ---
 
-## ⚙️ Funcionalidades principales  
+##  Funcionalidades principales  
 - **Consultar equipos por categoría**  
   Visualiza los implementos disponibles en cada categoría (Fútbol, Natación, Voleibol, Baloncesto).  
   _(Solo muestra los nombres, sin estado)._  
@@ -29,7 +29,7 @@ El sistema administra la disponibilidad de los equipos, evita reservas duplicada
 
 ---
 
-## 🗂️ Estructura del Proyecto  
+##  Estructura del Proyecto  
 El sistema se organiza en clases para una mejor modularidad:  
 
 - **Equipo** → Representa un implemento deportivo con ID, nombre, categoría y estado.  
@@ -39,14 +39,14 @@ El sistema se organiza en clases para una mejor modularidad:
 
 ---
 
-## 💻 Compilación y ejecución  
+## Compilación y ejecución  
 
-### 🔹 Linux / MacOS  
+### Linux / MacOS  
 g++ Main.cpp -o reservas
 ./sistemaReserva
 
 ## Autor
 Proyecto académico desarrollado por Emmanuel Castaño Sepúlveda
-🌐 GitHub
+GitHub
 
 
